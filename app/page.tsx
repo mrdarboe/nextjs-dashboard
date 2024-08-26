@@ -1,3 +1,4 @@
+/* eslint-disable react/react-in-jsx-scope */
 import AcmeLogo from '@/app/ui/acme-logo';
 import { ArrowRightIcon } from '@heroicons/react/24/outline';
 import { lusitana } from './ui/fonts';
